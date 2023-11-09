@@ -28,6 +28,7 @@ audio:not([controls]) {
 
 a {
   background-color: rgba(0, 0, 0, 0);
+  color: var(--slate-grey);
 }
 
 a:active, a:hover {
