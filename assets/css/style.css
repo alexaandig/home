@@ -4351,7 +4351,7 @@ figcaption {
   grid-row-gap: 3rem;
   flex-direction: column;
   align-items: center;
-  padding-bottom: 6rem;
+  padding: 6rem 0;
   display: flex;
 }
 
