@@ -3103,7 +3103,7 @@ figcaption {
   display: grid;
 }
 
-.projects-home-list._2-columns {
+.projects-home-list-2-columns {
   grid-template-columns: 1fr 1fr;
 }
 
@@ -5932,7 +5932,7 @@ figcaption {
     display: flex;
   }
 
-  .projects-home-list._2-columns {
+  .projects-home-list-2-columns {
     grid-template-columns: 1fr;
   }
 
